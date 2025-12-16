@@ -9,7 +9,7 @@
 
 ---
 
-## Introducción
+## Planteamiento
 
 En _El software toma el mando_, Lev Manovich analiza cómo los medios digitales contemporáneos no se limitan a combinar formatos preexistentes, sino que generan procesos de **hibridación profunda**, donde distintos lenguajes culturales se transforman bajo la lógica del software. A diferencia de la multimedia clásica, basada en la yuxtaposición de texto, imagen y sonido, la hibridación implica la fusión estructural de medios, interfaces, bases de datos y algoritmos, dando lugar a nuevas formas culturales irreductibles a un único medio tradicional.
 
