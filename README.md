@@ -3,6 +3,7 @@
 ## Hibridación en la cultura digital contemporánea
 
 **Autor:** Jorge Jiménez Juara  
+**Última actualización:** 16/12/2025  
 **Grado:** Multimedia UOC  
 **Asignatura:** Cultura Digital / 25  
 **Licencia:** Creative Commons BY-NC-SA
