@@ -1,4 +1,4 @@
-# PEC3 – Manovich Reloaded
+# PEC3 – Visionando el futuro con las gafas de Manovich
 
 ## Hibridación en la cultura digital contemporánea
 
