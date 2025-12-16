@@ -1,31 +1,32 @@
-# PEC3 – Manovich Reloaded  
+# PEC3 – Manovich Reloaded
+
 ## Hibridación en la cultura digital contemporánea
 
 **Autor:** Jorge Jiménez Juara  
 **Grado:** Multimedia UOC  
 **Asignatura:** Cultura Digital / 25  
-**Licencia:** Creative Commons BY-NC-SA  
+**Licencia:** Creative Commons BY-NC-SA
 
 ---
 
 ## Introducción
 
-En *El software toma el mando*, Lev Manovich analiza cómo los medios digitales contemporáneos no se limitan a combinar formatos preexistentes, sino que generan procesos de **hibridación profunda**, donde distintos lenguajes culturales se transforman bajo la lógica del software. A diferencia de la multimedia clásica, basada en la yuxtaposición de texto, imagen y sonido, la hibridación implica la fusión estructural de medios, interfaces, bases de datos y algoritmos, dando lugar a nuevas formas culturales irreductibles a un único medio tradicional.
+En _El software toma el mando_, Lev Manovich analiza cómo los medios digitales contemporáneos no se limitan a combinar formatos preexistentes, sino que generan procesos de **hibridación profunda**, donde distintos lenguajes culturales se transforman bajo la lógica del software. A diferencia de la multimedia clásica, basada en la yuxtaposición de texto, imagen y sonido, la hibridación implica la fusión estructural de medios, interfaces, bases de datos y algoritmos, dando lugar a nuevas formas culturales irreductibles a un único medio tradicional.
 
-En este ensayo se presentan dos casos de hibridación contemporánea que no aparecen en la obra original de Manovich, pero que podrían formar parte de una hipotética actualización del libro. El primer caso analiza **Las Vegas Sphere**, un espacio arquitectónico que funciona como medio audiovisual programable. El segundo se centra en el videoclip interactivo **Bob Dylan – *Like a Rolling Stone***, que transforma el formato clásico del videoclip mediante una lógica de base de datos e interacción. Ambos ejemplos se analizan desde “las gafas de Manovich”, combinando reflexión teórica y una mirada personal desde el ámbito del Grado Multimedia.
+En este ensayo se presentan dos casos de hibridación contemporánea que no aparecen en la obra original de Manovich, pero que podrían formar parte de una hipotética actualización del libro. El primer caso analiza **Las Vegas Sphere**, un espacio arquitectónico que funciona como medio audiovisual programable. El segundo se centra en el videoclip interactivo **Bob Dylan – _Like a Rolling Stone_**, que transforma el formato clásico del videoclip mediante una lógica de base de datos e interacción. Ambos ejemplos se analizan desde “las gafas de Manovich”, combinando reflexión teórica y una mirada personal desde el ámbito del Grado Multimedia.
 
 ---
 
-## Caso 1: Las Vegas Sphere  
+## Caso 1: Las Vegas Sphere
+
 ### La arquitectura como medio híbrido y experiencia programada
 
 ![The Sphere in Las Vegas](assets/images/The_Sphere_in_Las_Vegas.jpg)
 
-*The Sphere in Las Vegas*,  
+_The Sphere in Las Vegas_,  
 foto de **Nigel Hoult**,  
 vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Sphere_in_Las_Vegas.jpg),  
 licencia [CC BY](https://creativecommons.org/licenses/by/4.0/).
-
 
 La Las Vegas Sphere constituye uno de los ejemplos más claros de hibridación mediática en la cultura digital reciente. Se trata de un recinto arquitectónico esférico cuya superficie interior y exterior está completamente cubierta por pantallas LED de altísima resolución, acompañadas de sistemas avanzados de audio espacial, efectos hápticos y control ambiental. Más que un edificio destinado a albergar eventos, la Sphere funciona como un **medio híbrido autónomo**, diseñado desde su origen para ser activado y controlado mediante software.
 
@@ -39,16 +40,19 @@ Desde una perspectiva personal, considero que la Las Vegas Sphere representa un 
 
 ---
 
-## Caso 2: Bob Dylan – *Like a Rolling Stone*  
+## Caso 2: Bob Dylan – _Like a Rolling Stone_
+
 ### El videoclip como interfaz y base de datos audiovisual
 
-![Interfaz de zapping del videoclip interactivo](capturaimg//TODO)
+![Interfaz de zapping del videoclip interactivo](assets/images/BobDylan_Like_a_rolling_stone_capture.jpg)
+_Bob Dylan – Like a Rolling Stone (Interactive Video)_,  
+Captura de pantalla realizada a partir del proyecto interactivo oficial (http://video.bobdylan.com/) y utilizada con fines educativos y de análisis académico.
 
-El videoclip interactivo *Bob Dylan – Like a Rolling Stone* propone una relectura innovadora de un formato cultural ampliamente consolidado. A través de una interfaz que simula el zapping televisivo, el usuario puede cambiar entre distintos canales mientras la canción continúa sonando de forma ininterrumpida. En cada canal, los personajes que aparecen en pantalla sincronizan sus labios con la letra de la canción, independientemente del contexto visual.
+El videoclip interactivo _Bob Dylan – Like a Rolling Stone_ propone una relectura innovadora de un formato cultural ampliamente consolidado. A través de una interfaz que simula el zapping televisivo, el usuario puede cambiar entre distintos canales mientras la canción continúa sonando de forma ininterrumpida. En cada canal, los personajes que aparecen en pantalla sincronizan sus labios con la letra de la canción, independientemente del contexto visual.
 
 Este proyecto constituye un claro ejemplo de hibridación en el sentido planteado por Manovich, ya que fusiona televisión, videoclip musical, interfaz interactiva y lógica de base de datos. El vídeo deja de ser una pieza cerrada con un inicio y un final definidos, para convertirse en una experiencia navegable, donde el usuario explora un conjunto de fragmentos audiovisuales organizados y sincronizados mediante software.
 
-Uno de los conceptos fundamentales en la obra de Manovich es la tensión entre **narrativa y base de datos**. Mientras que la narrativa propone una secuencia fija de acontecimientos, la base de datos ofrece una colección de elementos que pueden recorrerse de múltiples maneras. En *Like a Rolling Stone*, la canción actúa como eje temporal constante, mientras que las imágenes funcionan como una base de datos audiovisual que el usuario consulta mediante la interfaz.
+Uno de los conceptos fundamentales en la obra de Manovich es la tensión entre **narrativa y base de datos**. Mientras que la narrativa propone una secuencia fija de acontecimientos, la base de datos ofrece una colección de elementos que pueden recorrerse de múltiples maneras. En _Like a Rolling Stone_, la canción actúa como eje temporal constante, mientras que las imágenes funcionan como una base de datos audiovisual que el usuario consulta mediante la interfaz.
 
 La interactividad del proyecto es deliberadamente sencilla: cambiar de canal. Sin embargo, su impacto conceptual es profundo, ya que transforma al espectador en un agente activo que decide qué ver en cada momento. El usuario adopta un rol cercano al del editor o realizador, construyendo su propia versión del videoclip a partir de una estructura preprogramada.
 
@@ -64,7 +68,7 @@ En el desarrollo de esta práctica se ha hecho un uso limitado de herramientas d
 
 ## Bibliografía y referencias
 
-- Manovich, L. (2013). *El software toma el mando*. Barcelona: Editorial UOC.  
-- Sitio oficial Las Vegas Sphere: https://www.thespherevegas.com  
-- Bob Dylan – *Like a Rolling Stone* (videoclip interactivo): http://video.bobdylan.com/  
-- Recursos y artículos sobre cultura digital, arquitectura inmersiva y medios interactivos.  
+- Manovich, L. (2013). _El software toma el mando_. Barcelona: Editorial UOC.
+- Sitio oficial Las Vegas Sphere: https://www.thespherevegas.com
+- Bob Dylan – _Like a Rolling Stone_ (videoclip interactivo): http://video.bobdylan.com/
+- Recursos y artículos sobre cultura digital, arquitectura inmersiva y medios interactivos.
